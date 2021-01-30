@@ -6,6 +6,7 @@ export default function Home({articles}) {
     <div className='container'>
       <Head>
         <title>WebDev Newz</title>
+        <meta charSet="UTF-8"></meta>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <ArticleList articles={articles}/>
