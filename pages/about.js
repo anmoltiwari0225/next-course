@@ -7,7 +7,7 @@ const about = () => {
                 <title>About</title>
             </Head>
             <h1>About</h1>
-            <p>Created with &#128151 by Anmol Tiwari</p>
+            <p>Created with &#128151; by Anmol Tiwari</p>
         </>
     );
 };
